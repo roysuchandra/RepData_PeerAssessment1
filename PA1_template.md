@@ -4,7 +4,8 @@ Assignment Course project 1
 title: "PA1_template"
 author: "Suchandra"
 date: "Saturday, January 09, 2016"
-### output: PA1_template.html, PA_template.md
+output:  html_document:
+        keep_md:true
 ---
 
 Introduction
